@@ -43,7 +43,7 @@ h2 {
     padding: 20px;
     border-radius: 10px;
     flex: 1 1 250px;
-    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    box-shadow: 0 3px 10px rgba(28, 201, 71, 0.1);
     transition: 0.3s;
 }
 
@@ -54,7 +54,7 @@ h2 {
 footer {
     text-align: center;
     padding: 30px;
-    background: #222;
+    background: #c51717;
     color: white;
     margin-top: 50px;
 }
